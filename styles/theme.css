@@ -1,4 +1,11 @@
+
+/* theme.css practice
+branch 2 edit */
+
+ :root  {  --bg-dark: #121212;  --text-light: #e0e0e0;  }
+
 /*theme.css practice
 branch1 edit*/
 
  body.dark-mode { background: #121212; color: #e0e0e0; }
+
